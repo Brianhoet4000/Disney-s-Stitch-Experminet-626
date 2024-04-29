@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MainGame.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Materials\ColorMaterial.cpp" />
+    <ClCompile Include="Prefabs\SpherePrefab.cpp" />
+    <ClCompile Include="Prefabs\TorusPrefab.cpp" />
+    <ClCompile Include="Prefabs\CubePrefab.cpp" />
+    <ClCompile Include="Materials\DiffuseMaterial.cpp" />
+    <ClCompile Include="Materials\UberMaterial.cpp" />
+    <ClCompile Include="Materials\SpikeMaterial.cpp" />
+    <ClCompile Include="Prefabs\BoneObject.cpp" />
+    <ClCompile Include="Materials\DiffuseMaterial_Skinned.cpp" />
+    <ClCompile Include="Scenes\Game\Stitch_Experiment_626.cpp" />
+    <ClCompile Include="Prefabs\Character.cpp" />
+    <ClCompile Include="Prefabs\PickupBase.cpp" />
+    <ClCompile Include="Prefabs\LevelPrefab.cpp" />
+    <ClCompile Include="Materials\PostProcess\PostBlur.cpp" />
+    <ClCompile Include="Materials\PostProcess\PostGrayscale.cpp" />
+    <ClCompile Include="Materials\Shadow\DiffuseMaterial_Shadow.cpp" />
+    <ClCompile Include="Materials\Shadow\DiffuseMaterial_Shadow_Skinned.cpp" />
+    <ClCompile Include="Prefabs\BulletPrefab.cpp" />
+    <ClCompile Include="Prefabs\HUD.cpp" />
+    <ClCompile Include="Prefabs\ExplosionParticle.cpp" />
+    <ClCompile Include="Prefabs\StitchPrefab.cpp" />
+    <ClCompile Include="Scenes\Game\MainScreen.cpp" />
+    <ClCompile Include="Prefabs\Destroyables.cpp" />
+    <ClCompile Include="Prefabs\Button.cpp" />
+    <ClCompile Include="Materials\SkyBoxMaterial.cpp" />
+    <ClCompile Include="Prefabs\JumpPad.cpp" />
+    <ClCompile Include="Prefabs\EnemyBuzz.cpp" />
+    <ClCompile Include="Materials\PostProcess\FilmGrain.cpp" />
+    <ClCompile Include="Materials\PostProcess\Invert.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainGame.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Materials\ColorMaterial.h" />
+    <ClInclude Include="Prefabs\SpherePrefab.h" />
+    <ClInclude Include="Prefabs\TorusPrefab.h" />
+    <ClInclude Include="Prefabs\CubePrefab.h" />
+    <ClInclude Include="Materials\DiffuseMaterial.h" />
+    <ClInclude Include="Materials\UberMaterial.h" />
+    <ClInclude Include="Materials\SpikeMaterial.h" />
+    <ClInclude Include="Prefabs\BoneObject.h" />
+    <ClInclude Include="Materials\DiffuseMaterial_Skinned.h" />
+    <ClInclude Include="Scenes\Game\Stitch_Experiment_626.h" />
+    <ClInclude Include="Prefabs\Character.h" />
+    <ClInclude Include="Prefabs\PickupBase.h" />
+    <ClInclude Include="Prefabs\LevelPrefab.h" />
+    <ClInclude Include="Materials\PostProcess\PostBlur.h" />
+    <ClInclude Include="Materials\PostProcess\PostGrayscale.h" />
+    <ClInclude Include="Materials\Shadow\DiffuseMaterial_Shadow.h" />
+    <ClInclude Include="Materials\Shadow\DiffuseMaterial_Shadow_Skinned.h" />
+    <ClInclude Include="Prefabs\BulletPrefab.h" />
+    <ClInclude Include="Prefabs\HUD.h" />
+    <ClInclude Include="Prefabs\ExplosionParticle.h" />
+    <ClInclude Include="Prefabs\StitchPrefab.h" />
+    <ClInclude Include="Scenes\Game\MainScreen.h" />
+    <ClInclude Include="Prefabs\Destroyables.h" />
+    <ClInclude Include="Prefabs\Button.h" />
+    <ClInclude Include="Materials\SkyBoxMaterial.h" />
+    <ClInclude Include="Prefabs\JumpPad.h" />
+    <ClInclude Include="Prefabs\EnemyBuzz.h" />
+    <ClInclude Include="Materials\PostProcess\FilmGrain.h" />
+    <ClInclude Include="Materials\PostProcess\Invert.h" />
+  </ItemGroup>
+</Project>
